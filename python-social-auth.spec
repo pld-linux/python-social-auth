@@ -11,7 +11,7 @@
 Summary:	Social auth made simple
 Name:		python-social-auth
 Version:	0.2.21
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Libraries
 Source0:	https://files.pythonhosted.org/packages/source/p/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
